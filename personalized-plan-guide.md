@@ -19,6 +19,8 @@
 
 ## Principles
 
+*What to optimize for so your plan stays specific, ethical, and feasible.*
+
 * **Personal, not generic:** address the student as **you**; use the client’s words.
 * **Evidence-anchored:** cite **timestamps** on every evidence line if they exist.
 * **One theme:** choose a clear throughline (e.g., *name values earlier*; *ask permission before expertise*; *quantify success before brainstorming*).
@@ -28,6 +30,8 @@
 ---
 
 ## Plan Structure
+
+*The order your plan should follow so it reads like a mini-coaching plan, not fragments.*
 
 1. **Intro (4–6 sentences)** — name the theme, tie to 2–3 moments (timestamps + quotes), explain *why this matters for this client*.
 2. **Next Session Focus (table)** — exactly 3 rows.
@@ -42,6 +46,8 @@
 ---
 
 ## CAWEN Mini-Plan Pattern
+
+*Use this paragraph pattern to turn feedback into a concrete next-session move.*
 
 **C — Context:** point to a precise moment (**timestamp + short quote**).
 **A — Action:** the exact behavior you’ll use next time (no blanks).
@@ -61,6 +67,8 @@
 ---
 
 ## Drills: Patterns & Examples
+
+*Short, targeted practice reps that make the new behavior automatic next session.*
 
 **Pattern (2–3 sentences each):**
 
@@ -87,6 +95,8 @@
 
 ## Contextual Phrase Bank
 
+*Ready-to-use lines tailored to this client so you don’t default to generic scripts.*
+
 Use the client’s words; keep lines short and vivid.
 
 * “It sounds like **consistency** matters because it supports your **energy**.”
@@ -99,6 +109,8 @@ Use the client’s words; keep lines short and vivid.
 
 ## Implementation Intentions
 
+*If–then plans that pre-commit you to the right move at the right moment.*
+
 Tie to **when** they occur in the Flow.
 
 * **If** the topic is set (≈ first 10 min), **then** ask for a success rating before brainstorming.
@@ -108,6 +120,8 @@ Tie to **when** they occur in the Flow.
 ---
 
 ## Micro-Metrics Menu
+
+*Small, trackable indicators that prove the new behavior is happening.*
 
 Choose 3–4; always set **baseline → target**.
 
@@ -123,6 +137,8 @@ Choose 3–4; always set **baseline → target**.
 
 ## Pre-Session Checklist Examples
 
+*A quick, client-specific prep list so you start strong and stay on track.*
+
 Keep it **client-specific**; reference obstacles by timestamp.
 
 * Confirm topic in the first 5–10 min; capture the client’s words.
@@ -135,12 +151,16 @@ Keep it **client-specific**; reference obstacles by timestamp.
 
 ## Accountability & Stretch
 
+*Lock in follow-through now and push 1% past your comfort zone.*
+
 * **Tiny commitment:** e.g., post-session reflection within **10 minutes** using 3 prompts (Win / Learning / Next tweak).
 * **Stretch behavior:** one concrete action just beyond comfort (e.g., *insert a values reflection before the first suggestion*).
 
 ---
 
 ## Anti-Vagueness Checks
+
+*A final pass to make sure nothing is generic or ambiguous.*
 
 Before finalizing, ensure each section:
 
@@ -152,6 +172,8 @@ Before finalizing, ensure each section:
 ---
 
 ## Long Output & Chunking
+
+*How to deliver the plan in parts if it’s lengthy.*
 
 When the plan is long, split into labeled parts and end each with:
 **“Reply ‘more’ to continue the plan.”**
