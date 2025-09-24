@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>WellCoaches — Coaching Session Checklist (canonical)</title>
+  <meta name="description" content="Canonical coaching evaluation checklist for the WellCoaches feedback assistant." />
+  <link rel="canonical" href="https://<your-username>.github.io/wellcoaches-feedback-assistant/" />
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Article",
+    "headline":"coaching_session — WellCoaches canonical checklist",
+    "description":"Canonical single-page checklist mapping every coaching session evaluation item to descriptions, examples and rubrics.",
+    "url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/",
+    "author":{"@type":"Organization","name":"WellCoaches"},
+    "dateModified":"2025-09-11",
+    "hasPart":[
+      {"@type":"WebPageElement","name":"engage","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#engage"},
+      {"@type":"WebPageElement","name":"learn_client_state","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#learn_client_state"},
+      {"@type":"WebPageElement","name":"learn_recent_positive","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#learn_recent_positive"},
+      {"@type":"WebPageElement","name":"response_style","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#response_style"},
+      {"@type":"WebPageElement","name":"perceptive_reflections","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#perceptive_reflections"},
+      {"@type":"WebPageElement","name":"experiment_discovery_review","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#experiment_discovery_review"},
+      {"@type":"WebPageElement","name":"client_choice","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#client_choice"},
+      {"@type":"WebPageElement","name":"explore_positive","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#explore_positive"},
+      {"@type":"WebPageElement","name":"explore_whole_experience","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#explore_whole_experience"},
+      {"@type":"WebPageElement","name":"discover_learnings","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#discover_learnings"},
+      {"@type":"WebPageElement","name":"quantify_success","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#quantify_success"},
+      {"@type":"WebPageElement","name":"vision_review","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#vision_review"},
+      {"@type":"WebPageElement","name":"validate_wellness_vision","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#validate_wellness_vision"},
+      {"@type":"WebPageElement","name":"learn_best_growth_experience","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#learn_best_growth_experience"},
+      {"@type":"WebPageElement","name":"generative_moment","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#generative_moment"},
+      {"@type":"WebPageElement","name":"identify_topic_collaboratively","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#identify_topic_collaboratively"},
+      {"@type":"WebPageElement","name":"encourage_desired_outcome","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#encourage_desired_outcome"},
+      {"@type":"WebPageElement","name":"discover_internal_resources","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#discover_internal_resources"},
+      {"@type":"WebPageElement","name":"discover_external_resources","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#discover_external_resources"},
+      {"@type":"WebPageElement","name":"creative_brainstorming","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#creative_brainstorming"},
+      {"@type":"WebPageElement","name":"experiment_design","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#experiment_design"},
+      {"@type":"WebPageElement","name":"destiny","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#destiny"},
+      {"@type":"WebPageElement","name":"overall","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#overall"}
+    ]
+  }
+  </script>
+
+  <style>
+    body {font-family:system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height:1.5; color:#111}
+    .container{max-width:900px;margin:28px auto;padding:20px}
+    h1{font-size:22px;margin-bottom:6px}
+    h2{font-size:18px;margin-top:20px}
+    h3{font-size:16px;margin-top:12px}
+    .meta{color:#555;font-size:13px;margin-bottom:12px}
+    .rubric{background:#fbfbfb;border-left:4px solid #e2e8f0;padding:10px;margin:8px 0}
+    code{background:#f3f4f6;padding:2px 4px;border-radius:4px;font-size:13px}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 id="coaching_session">coaching_session — WellCoaches canonical checklist</h1>
+    <p class="meta">Single-page canonical reference mapping each coaching evaluation element to descriptions, examples and rubrics.</p>
+
+    <nav>
+      <h2>Table of contents</h2>
+      <ul>
+        <li><a href="#engage">engage</a>
+          <ul>
+            <li><a href="#learn_client_state">learn_client_state</a></li>
+            <li><a href="#learn_recent_positive">learn_recent_positive</a></li>
+            <li><a href="#response_style">response_style</a></li>
+            <li><a href="#perceptive_reflections">perceptive_reflections</a></li>
+          </ul>
+        </li>
+        <li><a href="#experiment_discovery_review">experiment_discovery_review</a>
+          <ul>
+            <li><a href="#client_choice">client_choice</a></li>
+            <li><a href="#explore_positive">explore_positive</a></li>
+            <li><a href="#explore_whole_experience">explore_whole_experience</a></li>
+            <li><a href="#discover_learnings">discover_learnings</a></li>
+            <li><a href="#quantify_success">quantify_success</a></li>
+          </ul>
+        </li>
+        <li><a href="#vision_review">vision_review</a>
+          <ul>
+            <li><a href="#validate_wellness_vision">validate_wellness_vision</a></li>
+            <li><a href="#learn_best_growth_experience">learn_best_growth_experience</a></li>
+          </ul>
+        </li>
+        <li><a href="#generative_moment">generative_moment</a>
+          <ul>
+            <li><a href="#identify_topic_collaboratively">identify_topic_collaboratively</a></li>
+            <li><a href="#encourage_desired_outcome">encourage_desired_outcome</a></li>
+            <li><a href="#discover_internal_resources">discover_internal_resources</a></li>
+            <li><a href="#discover_external_resources">discover_external_resources</a></li>
+            <li><a href="#creative_brainstorming">creative_brainstorming</a></li>
+          </ul>
+        </li>
+        <li><a href="#experiment_design">experiment_design</a></li>
+        <li><a href="#destiny">destiny</a></li>
+        <li><a href="#overall">overall</a></li>
+      </ul>
+    </nav>
+
+    <hr />
+
+    <section id="engage">
+      <h2>engage</h2>
+
+      <h3 id="learn_client_state">learn_client_state</h3>
+      <p><strong>Description:</strong> Learns about the client’s state of being in this moment.</p>
+      <p><strong>Example:</strong> If you had to choose a color to describe how you’re feeling right now in this moment, what color would you choose?</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach elicits present state explicitly. Partially — coach asks about general mood or past feelings only. No — no present-state inquiry.</div>
+      <p><strong>Suggested coach phrase:</strong> <code>How are you feeling right now? If you could pick a color, what would it be?</code></p>
+
+      <h3 id="learn_recent_positive">learn_recent_positive</h3>
+      <p><strong>Description:</strong> Learns about a recent positive experience.</p>
+      <p><strong>Example:</strong> What is the best thing that’s happened to you in the last week?</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach asks for a recent positive and explores it. Partially — coach briefly asks but doesn't explore. No — no recent-positive question.</div>
+      <p><strong>Suggested coach phrase:</strong> <code>What's one good thing that happened to you this week?</code></p>
+
+      <h3 id="response_style">response_style</h3>
+      <p><strong>Description:</strong> Responds to client challenges with judgment-free reflection and inquiry rather than ignoring or correcting challenges.</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach reflects and asks open questions when client shares challenges. Partially — coach minimizes or redirects. No — coach corrects, judges, or ignores.</div>
+
+      <h3 id="perceptive_reflections">perceptive_reflections</h3>
+      <p><strong>Description:</strong> Uses perceptive reflections or affirmations throughout to acknowledge values, strengths, feelings, and/or needs.</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach offers reflections tied to client values/strengths at multiple points. Partially — one reflection only. No — none present.</div>
+
+    </section>
+
+    <section id="experiment_discovery_review">
+      <h2>experiment_discovery_review</h2>
+
+      <h3 id="client_choice">client_choice</h3>
+      <p><strong>Description:</strong> Allows client to choose which experiment to review first.</p>
+      <p><strong>Example:</strong> Which goal from last week would you like to discuss first?</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach invites client to pick the experiment. Partially — coach offers options but leads strongly. No — coach chooses without client input.</div>
+
+      <h3 id="explore_positive">explore_positive</h3>
+      <p><strong>Description:</strong> Explores the full experience of the experiment, leading with the positive.</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach leads with positives and elicits detail. Partially — coach asks but doesn't probe. No — coach focuses only on failures.</div>
+
+      <h3 id="explore_whole_experience">explore_whole_experience</h3>
+      <p><strong>Description:</strong> Continues to explore the whole experience with the experiment, including the challenges as appropriate.</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach explores multiple instances, challenges and successes. Partially — limited examples. No — exploration missing.</div>
+
+      <h3 id="discover_learnings">discover_learnings</h3>
+      <p><strong>Description:</strong> Discovers what the client has learned or become aware of from the experiment.</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — client states a learning and coach elicits specifics. Partially — vague learning. No — no learning elicited.</div>
+
+      <h3 id="quantify_success">quantify_success</h3>
+      <p><strong>Description:</strong> Invites the client to quantify their success.</p>
+      <p><strong>Example:</strong> If you had to give yourself a percentage of success for this goal, what would you choose?</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach asks for a numeric or percentage assessment. Partially — coach asks for qualitative success only. No — no quantification requested.</div>
+
+    </section>
+
+    <section id="vision_review">
+      <h2 id="vision_review">vision_review</h2>
+
+      <h3 id="validate_wellness_vision">validate_wellness_vision</h3>
+      <p><strong>Description:</strong> Validates the client's Wellness Vision.</p>
+      <p><strong>Example:</strong> When you look at your Wellness Vision and 3 Month Goals, how are you feeling about them?</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach asks and explores feelings about the vision. Partially — coach mentions vision but doesn't validate. No — no vision discussion.</div>
+
+      <h3 id="learn_best_growth_experience">learn_best_growth_experience</h3>
+      <p><strong>Description:</strong> Learns about client's best learning/growth experience to date.</p>
+      <div class="rubric"><strong>Evaluation rubric:</strong> Yes — coach elicits a clear growth example. Partially — vague or general. No — not asked.</div>
+
+    </section>
+
+    <section id="generative_moment">
+      <h2>generative_moment</h2>
+
+      <h3 id="identify_topic_collaboratively">identify_topic_collaboratively</h3>
+      <p><strong>Description:</strong> Collaborates with the client to identify the topic.</p>
+
+      <h3 id="encourage_desired_outcome">encourage_desired_outcome</h3>
+      <p><strong>Description:</strong> Encourages the client to describe what they really want, in relation to the topic.</p>
+
+      <h3 id="discover_internal_resources">discover_internal_resources</h3>
+      <p><strong>Description:</strong> Discovers the resources available within the client to achieve this way of being.</p>
+
+      <h3 id="discover_external_resources">discover_external_resources</h3>
+      <p><strong>Description:</strong> Discovers the resources available outside of the client to achieve this way of being.</p>
+
+      <h3 id="creative_brainstorming">creative_brainstorming</h3>
+      <p><strong>Description:</strong> Engages the client in creative brainstorming (let the client lead).</p>
+
+    </section>
+
+    <section id="experiment_design">
+      <h2>experiment_design</h2>
+      <p>Allows client to choose the experiment, discovers resources, assists in designing a specific goal, encourages self-efficacy, and uses perceptive reflections throughout.</p>
+    </section>
+
+    <section id="destiny">
+      <h2>destiny</h2>
+      <p>Discovers what the client has learned from this session and collaborates on future success strategies.</p>
+    </section>
+
+    <section id="overall">
+      <h2>overall</h2>
+      <p>Maintains Coach Approach, offers expertise only with permission, demonstrates coaching presence, time management, pausing and pacing.</p>
+    </section>
+
+    <hr />
+
+    <section>
+      <h2>How to cite this page</h2>
+      <p>When referencing an element, use this exact format:</p>
+      <pre><code>[element_name] — https://<your-username>.github.io/wellcoaches-feedback-assistant/#element_id</code></pre>
+      <p>Example:</p>
+      <pre><code>learn_client_state — https://<your-username>.github.io/wellcoaches-feedback-assistant/#learn_client_state</code></pre>
+    </section>
+
+    <section>
+      <h2>Machine-friendly JSON output example</h2>
+      <pre><code>{
+  "overall_score": 0,
+  "summary": "",
+  "elements": {
+    "learn_client_state": {"observed":"Yes","evidence":"", "rationale":"", "suggestion":"", "score":1}
+  },
+  "citations": [{"element":"learn_client_state","url":"https://<your-username>.github.io/wellcoaches-feedback-assistant/#learn_client_state"}]
+}</code></pre>
+    </section>
+
+    <footer style="margin-top:28px;color:#666;font-size:13px">
+      Copyright WellCoaches 2025
+    </footer>
+  </div>
+</body>
+</html>
